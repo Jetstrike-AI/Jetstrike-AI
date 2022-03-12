@@ -1,0 +1,4 @@
+- 👋 Hi, I’m JetStrike!
+- 👀 I’m python developer.
+- 🖥️ Now working on the lightweight kernel for python.
+- 🛠️ Learning python, JS, and Java.
