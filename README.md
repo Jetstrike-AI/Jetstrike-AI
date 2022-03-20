@@ -1,4 +1,4 @@
 - 👋 Hi, I’m JetStrike!
 - 👀 I’m python developer.
-- 🖥️ Now working on the lightweight kernel for python.
+- 🖥️ Now working on the lightweight kernel for python and open-source DOS project.
 - 🛠️ Learning python, JS, and Java.
